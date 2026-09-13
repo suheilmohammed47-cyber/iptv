@@ -1,0 +1,16 @@
+#EXTM3U
+
+#EXTINF:-1 group-title="UK",QVC UK
+https://qvcuk-live.akamaized.net/hls/live/2097112/qvc/3/3.m3u8
+
+#EXTINF:-1 group-title="UK",Great! Movies
+https://amg01753-narrativeuk-amg01753c3-lg-gb-1833.playouts.now.amagi.tv/playlist/amg01753-narrativeuk-greatmovies-lggb/playlist.m3u8
+
+#EXTINF:-1 group-title="UK",GB News
+https://live-gbnews.simplestreamcdn.com/live5/gbnews/bitrate1.isml/manifest.m3u8
+
+#EXTINF:-1 group-title="UK",TBN UK
+https://live-tbn-ssai.simplestreamcdn.com/playlist.m3u8
+
+#EXTINF:-1 group-title="UK",True Crime
+https://b6cca454.wurl.com/manifest/playlist.m3u8
